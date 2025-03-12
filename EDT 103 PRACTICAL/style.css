@@ -1,0 +1,170 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 0px;
+    background-image: url(./LASU\ Part-Time\ Admission\ List.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.a1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.a2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.a3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.a4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+
+.a5{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 50px;
+}
+
+
+.a6{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 170px;
+    border-radius: 90px;
+}
+
+.a7{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-top: -10px;
+    color: rgb(255, 255, 255);
+}
+
+
+.a8{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 200px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+
+.a9{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 200px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+
+.b1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 800px;
+    font-size: 20px;
+    margin-top: -85px;
+    color: rgb(255, 255, 255);
+}
+
+
+.b2{
+    margin-top: 60px;
+}
+
+
+.b3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 350px;
+    height: 30px;
+}
+
+
+.b4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 350px;
+    height: 30px;
+}
+
+
+.b5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 350px;
+    height: 30px;
+}
+
+
+
+.b6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 350px;
+    height: 30px;
+}
+
+
+
+.b7{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 150px;
+    height: 30px;
+    margin-left: -200px;
+}
+
+
+.b8{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -50px;
+}
+
+
+.b9{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+    color: white;
+    background-color: green;
+}
+
+
+.c1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;color: white;
+}
+/* tablet responsiveness */
+@media (max-width: 768px) {
+   
+}
+
+/* phone responsiveness */
+@media (max-width: 425px) {
+        
+}
